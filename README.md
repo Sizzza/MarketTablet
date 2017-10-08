@@ -1,4 +1,6 @@
 # MarketTablet
+For run test: mvn test
+
 For generate Allure report: allure serve target/surefire-reports
 
 For run test in IE you need download "IEDriver"
